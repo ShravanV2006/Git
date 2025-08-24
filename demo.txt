@@ -1,0 +1,7 @@
+Project Steps : Data Science Project Pipeline
+1. Project Problem Statement
+2. Data Gathering
+3. EDA
+4. Feature Engineering
+5. Feature Selection
+6. Model Training and Testing
